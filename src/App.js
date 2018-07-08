@@ -135,11 +135,12 @@ class App extends Component {
           </div>
           </div>
           </div>
-
         </div>
-        <div className="container pull-center">
+        <hr />
+        <div id="amount" className="container pull-center">
           <h3>Total: ₦ {this.state.totale}  </h3>
         </div>
+        <hr />
         <br />
         <Footer />
       </div>

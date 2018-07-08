@@ -13,6 +13,15 @@ body {
   color: #7f7f7f;
 }
 
+#legal {
+  color: Red;
+}
+
+#amount {
+  color: green;
+  font-family: sans-serif;
+}
+
 .price {
   font-weight: bold;
   font-size: 16px;

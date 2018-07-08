@@ -11,15 +11,15 @@ class DemoCarousel extends Component {
                <Carousel showArrows={true}>
                   <div>
                       <img src="./images/welcom.png" />
-                      <p className="legend">Legend 1</p>
+                      <p className="legend">About us</p>
                   </div>
                   <div>
                       <img src="./images/agricul.png" />
-                      <p className="legend">Legend 2</p>
+                      <p className="legend">our World</p>
                   </div>
                   <div>
                       <img src="./images/slide.png" />
-                      <p className="legend">Legend 3</p>
+                      <p className="legend"></p>
                   </div>
               </Carousel>
             </div>

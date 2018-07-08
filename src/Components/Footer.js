@@ -15,12 +15,15 @@ export default class Footer extends React.Component {
                <button class="btn btn-secondry btn-lg">Agro-World</button>
                <button class="btn btn-secondry btn-lg">GitHub</button>
            </ul>
+            </div>
+           <div>
          <p class="copyright">
            Copyright 2018 <a href="http:www.enye.tech">The DarlingWorld Foundation</a>.
          <a href="http:www.enye.tech">Enye License</a>
         <span class="sponsor-line"><a href='#'>Web hosting by Enye world</a> | <a href="#" rel="nofollow" class="sp-link">Designed by DARLINGTON</a></span>
         </p>
-       </div>
+        </div>
+
        </footer>
       </div>
     );
